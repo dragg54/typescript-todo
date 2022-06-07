@@ -1,0 +1,31 @@
+.todo-container{
+   width: 350px;
+   height: 450px;
+   margin: 70px auto;
+   box-shadow: 1px 1px 1px ;
+   border: 1px solid gray;
+   padding-top: 10px;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.input{
+  width: 300px;
+  margin-bottom: 8px;
+}
+
+.todos{
+  height:300px;
+  margin-top: 30px;
+}
+
+.todo{
+  width: 300px;
+  height: 30px;
+  box-shadow: 1px 1px 1px ;
+  padding: 3px 5px;
+  border:0.2px  solid green;
+  background-color: beige;
+}
